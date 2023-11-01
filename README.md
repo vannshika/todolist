@@ -1,8 +1,6 @@
 # todolist
 This project is a simple web-based to-do list application developed using HTML, CSS, and basic JavaScript. The purpose of this application is to help users create and manage their to-do tasks effectively.
-HTML: Used for creating the structure of the web page, including input fields, buttons, and lists.
-CSS: Applied for styling the application, providing an attractive and visually appealing layout.
-JavaScript: Implemented to add dynamic functionality to the to-do list. It enables users to add, complete, and delete tasks without requiring a page refresh.
+: Implemented to add dynamic functionality to the to-do list. It enables users to add, complete, and delete tasks without requiring a page refresh.
 Key Features:
 Task Entry: Users can enter new tasks in the provided input field. The input field is equipped with a placeholder for guidance.
 Task Addition: By clicking the "Add" button, tasks are added to the list. Each task is displayed as a list item.
